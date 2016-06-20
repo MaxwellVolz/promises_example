@@ -20,4 +20,9 @@
     "name": "A yellow door",
     "price": 13.50,
     "tags": ["home", "yellow"]
+},{
+    "id": 5,
+    "name": "A purple door",
+    "price": 14.50,
+    "tags": ["home", "purple"]
 }]

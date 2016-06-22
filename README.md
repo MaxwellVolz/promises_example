@@ -3,7 +3,7 @@ simple example explaining transitioning between events and listeners to promises
 
 
 
-Promises syntax:
+source: http://www.html5rocks.com/en/tutorials/es6/promises/
 
 ```
 var promise = new Promise(function(resolve, reject) {
